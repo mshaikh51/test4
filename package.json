@@ -1,0 +1,17 @@
+{
+  "name": "test4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data_prep.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Mohammed Mahi Shaikh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "path": "^0.12.7"
+  }
+}
